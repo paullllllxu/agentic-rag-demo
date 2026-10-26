@@ -1,0 +1,63 @@
+{
+  "captured_on": "2026-10-26",
+  "scope": "Selected implementation files for a portfolio case study. Dependencies, data and runtime are not bundled.",
+  "files": [
+    {
+      "file": "code/agent/pipeline.py",
+      "sha256": "57a7ae32f349d4ef7cbd50efe73ac738acae83fc5a8a787eba55aecb484ada46",
+      "original_relative_path": "agent/pipeline.py"
+    },
+    {
+      "file": "code/agent/planning.py",
+      "sha256": "edd4f9a8289afc6e945eb713fd1be2065edf95257cfc53ea1b7b7027716a96b7",
+      "original_relative_path": "agent/planning.py"
+    },
+    {
+      "file": "code/agent/question_policy.py",
+      "sha256": "3463ce5ae25ad6d7dd1fe87a991919c945b490a1d8d7a5a47c363f5afb75761b",
+      "original_relative_path": "agent/question_policy.py"
+    },
+    {
+      "file": "code/agent/retrieval.py",
+      "sha256": "b8e68f91860311edfd733657dd89be8769b76b717ed6f2a69579220da3acf1fc",
+      "original_relative_path": "agent/retrieval.py"
+    },
+    {
+      "file": "code/agent/semantic_guards.py",
+      "sha256": "d7aae1bff16ddd270388f8bfa21423f585bbb8ac4b995b4335d145988129b8c1",
+      "original_relative_path": "agent/semantic_guards.py"
+    },
+    {
+      "file": "code/agent/conversation.py",
+      "sha256": "190dca98efe250fe219d8349d6bcb26d88de6034e83a5690967a2b7a15a970e9",
+      "original_relative_path": "agent/conversation.py"
+    },
+    {
+      "file": "code/agent/evidence.py",
+      "sha256": "272a6fa713f479e4361ce13ab843e057c050804510cfb63b432c61c8228f9668",
+      "original_relative_path": "agent/evidence.py"
+    },
+    {
+      "file": "code/agent/update_reference.py",
+      "sha256": "6cc26e4ceeab529a5d7d906137595d90b8e8f71a43f397593fd7dff9d9df97da",
+      "original_relative_path": "agent/update_reference.py",
+      "original_sha256": "d43733e3fbed4dbdfd680e2e8e98e791f74cd94cdd1f4ecc8f7c33acc3748ba7",
+      "sanitization": "Local macOS service identifier changed to an example identifier; functional design retained."
+    },
+    {
+      "file": "code/app/gradio_app.py",
+      "sha256": "388286cd26fff96c0db8409cc211b285c72bb237d9ef7a3b95ef7c5de2a5a5be",
+      "original_relative_path": "app/gradio_app.py"
+    },
+    {
+      "file": "code/app/sharing.py",
+      "sha256": "23be28ed93571ad7d7c2973b7b07e13003f204a9cacb2bea7ba6b5fbac6648f2",
+      "original_relative_path": "app/sharing.py"
+    },
+    {
+      "file": "code/eval/quality.py",
+      "sha256": "aaed897abbbc2755e6c207427eb27e31e64198620b04ed6138e575f0b03cfc1f",
+      "original_relative_path": "eval/quality.py"
+    }
+  ]
+}
